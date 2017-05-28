@@ -5,7 +5,7 @@
   "main": "program.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "node program.js",
+    "start": "node program.js",
     "build": "webpack -p"
   },
   "repository": {
@@ -23,8 +23,6 @@
   },
   "homepage": "https://github.com/aretheregods/nodemotsu#readme",
   "dependencies": {
-    "cosmicjs": "^2.39.0",
-    "google-closure-compiler-js": "^20170521.0.0",
     "koa": "^2.2.0",
     "koa-router": "^7.2.0",
     "koa-send": "^4.1.0",
