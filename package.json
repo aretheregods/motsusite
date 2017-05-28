@@ -1,0 +1,37 @@
+{
+  "name": "node-motsu",
+  "version": "0.0.1",
+  "description": "Create Multi Otsu Method Images with Javascript",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node program.js",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aretheregods/nodemotsu.git"
+  },
+  "keywords": [
+    "image",
+    "manipulation"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aretheregods/nodemotsu/issues"
+  },
+  "homepage": "https://github.com/aretheregods/nodemotsu#readme",
+  "dependencies": {
+    "cosmicjs": "^2.39.0",
+    "google-closure-compiler-js": "^20170521.0.0",
+    "koa": "^2.2.0",
+    "koa-router": "^7.2.0",
+    "koa-send": "^4.1.0",
+    "koa-static": "^3.0.0"
+  },
+  "devDependencies": {
+    "html-minifier": "^3.5.2",
+    "webpack": "^2.6.1"
+  }
+}
