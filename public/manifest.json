@@ -1,0 +1,16 @@
+{
+  "name": "Motsu Image",
+  "short_name": "MotsuImage",
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "background_color": "indigo",
+  "description": "An image converter app using Multi-Otsu Method.",
+  "icons": [{
+    "src": "images/logo.png",
+    "sizes": "380x383",
+    "type": "image/png"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
