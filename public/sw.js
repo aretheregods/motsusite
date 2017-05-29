@@ -20,7 +20,7 @@ importScripts('workbox-sw.prod.v1.0.0.js');
 const fileManifest = [
   {
     "url": "/about.html",
-    "revision": "aa0ce6990a7bf0fd9c756cff4645a5ba"
+    "revision": "6e559a845acb26f3310f6f93328f69ce"
   },
   {
     "url": "/dist/highlight.pack.js",
@@ -32,11 +32,11 @@ const fileManifest = [
   },
   {
     "url": "/examples.html",
-    "revision": "7794ad3563d8817279191ab49ab19a6f"
+    "revision": "109443bc4df6ea842178cb810b961ecb"
   },
   {
     "url": "/help.html",
-    "revision": "15c52f6dcee13067bfc37473df9207fc"
+    "revision": "38a025313a3cfe2bb7473e8335b9626a"
   },
   {
     "url": "/images/about-header.jpg",
@@ -65,6 +65,14 @@ const fileManifest = [
   {
     "url": "/images/example-work08.jpg",
     "revision": "799e168fa2b00785e230861f4c6e00ed"
+  },
+  {
+    "url": "/images/favicon-16x16.png",
+    "revision": "726e2faead4d7eb79e00656443201090"
+  },
+  {
+    "url": "/images/favicon-32x32.png",
+    "revision": "05f0d9541e449423757698d8d8bd5641"
   },
   {
     "url": "/images/footer-background.png",
@@ -100,11 +108,11 @@ const fileManifest = [
   },
   {
     "url": "/index.html",
-    "revision": "8540811507b1dcf26c463611d5e728ed"
+    "revision": "d9221caf27ec21e5b660831bf5555efb"
   },
   {
     "url": "/info.html",
-    "revision": "7071247dead4c03b37bfd3d1cf6382cb"
+    "revision": "25b0be078616a3e0f48892b2532ca474"
   },
   {
     "url": "/motsucode.js",
@@ -112,7 +120,7 @@ const fileManifest = [
   },
   {
     "url": "/privacy.html",
-    "revision": "7e165070cd30cd2128737ef57e11b8d6"
+    "revision": "576bd0b7656c0c80f6c9243d44a3e33d"
   },
   {
     "url": "/styles.css",
